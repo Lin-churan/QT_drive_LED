@@ -9,5 +9,5 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
     printf("this is local placement to modified\n");
-    printf("this is remote placement to modified");
+    printf("我对该文件进行了一个修复")
 }
